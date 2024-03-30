@@ -35,4 +35,3 @@ localhost:3000/cars
 ```
 localhost:3000/brands
 ```
-# nestjs-car-dealership
